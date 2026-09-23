@@ -1,0 +1,12 @@
+body {
+    background-color: #3ca521;
+        }
+        .left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        }
+        h1,h2,h3,p{
+            text-align: center;
+            color: white;
+        }
